@@ -1,2 +1,76 @@
-# my-devops-journey
-This repo contains each and everything about my devops learning journey.
+# My DevOps Journey
+
+![Day](https://img.shields.io/badge/Day-1%20of%20100-purple)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Started](https://img.shields.io/badge/Started-April%2019%202026-blue)
+
+---
+
+## Introduction
+
+Hello, my name is **Sagar Tayde**. I graduated in 2025 and I am currently learning **Cloud and DevOps**.  
+This repository documents my daily progress, projects, and hands-on practice.
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbt7)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/sagartayde77)
+
+---
+
+## Goals
+
+- Become a Cloud & DevOps Engineer
+- Build real-world projects
+- Develop strong Linux fundamentals
+- Master CI/CD pipelines
+- Document daily learning progress
+
+---
+
+## Technologies I Plan to Learn
+
+| Technology | Status |
+|------------|--------|
+| Linux | 🔄 In Progress |
+| Python | 🔄 In Progress |
+| Git & GitHub | 🔄 In Progress |
+| AWS | 📅 In Progress |
+| Docker | 📅 Planned |
+| Kubernetes | 📅 Planned |
+| Terraform | 📅 Planned |
+| Jenkins | 📅 Planned |
+| CI/CD Pipelines | 📅 Planned |
+| SQL / MySQL | 📅 Planned |
+
+---
+
+## Progress Tracker
+
+| Week | Focus | Status |
+|------|-------|--------|
+| Week 1 | Python basics, Linux, Git & GitHub | 🔄 In Progress |
+| Week 2 | Python functions, Bash scripting, AWS basics | 📅 Planned |
+| Week 3 | Docker & containerisation | 📅 Planned |
+| Week 4 | More AWS + projects | 📅 Planned |
+
+---
+
+## Daily Log
+
+### Day 1 — 2026-04-19
+
+#### Topics Covered
+- What is Cloud Computing
+- What is Python 
+- Basic Linux commands
+
+#### What I Learned
+I learned about What is Cloud Computing, Linux and Python. What is the actual use of them in real world projects.
+- Introduction to Python and history of Python.
+- Introduction to Linux, History of Linux.
+- What is cloud computing, Why it exists.
+
+*This README is updated daily. Last updated: 2026-04-19*
