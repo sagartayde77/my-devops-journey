@@ -102,3 +102,41 @@ Git helps track changes in code and allows reverting to previous versions if som
 Distributed Version Control System means each developer has full copy of project repository, which improves reliability and collaboration.
 
 *This README is updated daily. Last updated: 2026-04-20*
+
+### Day 3 — 2026-04-21
+
+#### Topics Covered
+
+AWS:
+- Load Balancer
+- Target Group
+- Auto Scaling Group
+- Launch Template
+
+Git:
+- Distributed Version Control System (DVCS)
+- Git workflow (working directory → staging → commit → repository)
+- Types of repository (local and remote)
+- Installed Git on EC2 instance
+
+#### Practical Performed
+
+- Created Application Load Balancer
+- Created Target Group
+- Connected multiple EC2 instances to Load Balancer
+- Created Auto Scaling Group using Launch Template
+- Tested traffic distribution
+- Installed Git on EC2 instance
+- Used Git from local system
+
+#### Key Understanding
+
+Load Balancer distributes incoming traffic across multiple servers to improve availability.
+
+Auto Scaling automatically adjusts number of EC2 instances based on demand, which helps maintain performance and reduce manual work.
+
+Git helps track changes in code and makes collaboration easier.
+
+---
+
+*Last updated: 2026-04-21*
