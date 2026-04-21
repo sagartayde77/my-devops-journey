@@ -74,3 +74,31 @@ I learned about What is Cloud Computing, Linux and Python. What is the actual us
 - What is cloud computing, Why it exists.
 
 *This README is updated daily. Last updated: 2026-04-19*
+
+### Day 2 — 2026-04-20
+
+#### Topics Covered
+
+Git & Version Control:
+- What is Version Control System (VCS)
+- What is Distributed Version Control System (DVCS)
+- What is Git
+- Git workflow (Working directory → Staging → Commit → Repository)
+- Types of repositories (local and remote)
+
+#### Practical Performed
+
+- Installed Git
+- Initialized local repository
+- Added files to staging area
+- Created commits
+- Connected local repository with GitHub
+- Pushed code to remote repository
+
+#### Key Understanding
+
+Git helps track changes in code and allows reverting to previous versions if something breaks.
+
+Distributed Version Control System means each developer has full copy of project repository, which improves reliability and collaboration.
+
+*This README is updated daily. Last updated: 2026-04-20*
