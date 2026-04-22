@@ -140,3 +140,49 @@ Git helps track changes in code and makes collaboration easier.
 ---
 
 *Last updated: 2026-04-21*
+
+### Day 4 - 2026-04-22
+
+#### Topics Covered
+
+AWS:
+- Blue-Green Deployment
+
+Git:
+- Git local repo
+- GitHub Repo
+- Git Commands(git init, git status, git add, git commit, git log, git show, git push, git pull)
+
+#### practical Performed
+
+- Deployed 2 portfolio versions on Blue-Green environment with 0 downtime
+- Run git commands on local system and Ec2 instance
+
+#### Key Understanding
+
+#### Blue-Green Deployment:
+Blue-Green Deployment means Deploying a product without having 0 downtime having different version. and easy to rollback. With the help of 2 Target Group (Blue-TG, Green-TG). By editing the rule in in load balancer listener rules.
+
+#### Git commands:
+- git init
+it is use to initialize git in local repo.
+
+- git add
+it is used to add changed files in stagin area.
+- git commit -m ""
+it is used to do commit change.
+- git status
+it is used to check the status of current repo.
+ -git log
+ it is used to see the git logs
+ - git show 
+ it is used to see the changes who did by git commit id
+ - git push
+ it is used to push local changes to github repo.
+
+ - git pull
+ it is used to pull the changes from github to local repo.
+
+ ---
+ *Last updated: 2026-04-22*
+
