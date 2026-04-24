@@ -186,3 +186,33 @@ it is used to check the status of current repo.
  ---
  *Last updated: 2026-04-22*
 
+ ### Day 5 - 2026-04-23
+
+ #### Topics Covered
+
+ AWS:
+ - CloudWatch
+ - Alarms
+ - Metrics, Threshold
+
+ Git:
+ - Branch
+ - Pull requests
+
+ ### Practical Performed
+
+ - Performed git branch commands on local system.
+ - Checked Actual changes on GitHub
+ - Generated pull request
+
+ #### Key Understanding
+
+ #### AWS CloudWatch:
+ AWS CloudWatch is monitoring and observability service which is run on mainly 3 principles that are ALARMS, LOGS & EVENTS. CloudWatch service can be integret with other aws services.
+
+ #### Git Branch:
+ Branching system is used to develope the product parallely, Each branch is seperated from each other but has the clone of main branch. We can also merge the branches and pull changes from branches.
+
+ ---
+ *Last updated: 2026-04-23*
+
