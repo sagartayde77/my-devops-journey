@@ -243,3 +243,26 @@ Used to trigger actions based on specific activities happening in AWS services.
 ---
 
 *Last updated: 2026-04-24*
+
+### Day 7 — 2026-04-25
+
+#### Topics Covered
+
+- Revision day
+
+#### What I Did
+
+- Reviewed:
+  - Load Balancer
+  - Auto Scaling
+  - CloudWatch basics
+  - Git workflow and branching
+
+#### Key Understanding
+
+Revision helps strengthen concepts and improve clarity.  
+Repeated exposure makes complex topics easier to understand.
+
+---
+
+*Last updated: 2026-04-25*
