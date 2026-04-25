@@ -216,3 +216,30 @@ it is used to check the status of current repo.
  ---
  *Last updated: 2026-04-23*
 
+### Day 6 — 2026-04-24
+
+#### Topics Covered
+
+AWS:
+- CloudWatch Logs
+- Events
+
+Git:
+- Basic workflow revision
+
+#### Practical Performed
+
+- Explored CloudWatch logs concept (theory)
+- Reviewed Git commands (add, commit, push)
+
+#### Key Understanding
+
+CloudWatch Logs:
+Used to collect and monitor logs from AWS resources for debugging and analysis.
+
+Events:
+Used to trigger actions based on specific activities happening in AWS services.
+
+---
+
+*Last updated: 2026-04-24*
