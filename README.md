@@ -266,3 +266,24 @@ Repeated exposure makes complex topics easier to understand.
 ---
 
 *Last updated: 2026-04-25*
+
+### Day 8 - 2026-04-26
+
+#### Topic Covered 
+
+- Practical of AWS CloudWatch
+
+#### Key Understanding
+
+Metrics:
+I set alarm on CPU-Utilization under 10%. With trigering the SNS topic to inform and used EC2 instance action "STOP".
+
+Lambda:
+Created lambda funtions to stop and start on a perticular time. Used EventBridge to Invoke lambda funtion.
+
+--- 
+
+*Last update: 2026-04-26*
+
+
+
