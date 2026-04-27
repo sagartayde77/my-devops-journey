@@ -285,5 +285,19 @@ Created lambda funtions to stop and start on a perticular time. Used EventBridge
 
 *Last update: 2026-04-26*
 
+### Day 9 — 2026-04-27
 
+#### Topics Covered
+- No new topics
 
+#### What I Did
+- Took a break from regular study
+- Stepped away to recharge
+
+#### Key Understanding
+Consistency is important, but rest is also required to avoid burnout.  
+Taking a break helps maintain long-term focus.
+
+---
+
+*Last updated: 2026-04-27*
