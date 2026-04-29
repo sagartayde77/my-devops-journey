@@ -305,3 +305,34 @@ Taking a break helps maintain long-term focus.
 ### Day 10 -2026-04-28
 
 *nothing new topic covered, did revision*
+
+### Day 11 — 2026-04-29
+
+#### Topics Covered
+
+AWS:
+- EC2 instance types
+- EC2 families
+
+#### What I Did
+
+- Explored different EC2 instance categories in AWS console
+- Compared instance types and their purpose
+- Understood why different workloads need different instance types
+
+#### Key Understanding
+
+EC2 instances are not one-size-fits-all.
+
+Different families are designed for different workloads:
+
+- General purpose → balanced usage
+- Compute optimized → CPU-heavy tasks
+- Memory optimized → large data workloads
+- Storage optimized → high I/O operations
+
+Choosing the right instance improves performance and avoids unnecessary cost.
+
+---
+
+*Last updated: 2026-04-29*
