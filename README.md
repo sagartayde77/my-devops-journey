@@ -340,3 +340,43 @@ Choosing the right instance improves performance and avoids unnecessary cost.
 ### Day 12 — 2026-04-30
 
 *No New Topic*
+
+### Day 13 — 2026-05-01
+
+#### Topics Covered
+
+AWS:
+- CloudWatch concepts
+- Metrics, Logs, Events
+
+#### What I Did
+
+- Understood how metrics, logs and events actually work
+- Connected these concepts with real AWS flow (alarms, triggers, actions)
+- Reviewed previous CloudWatch practical with better clarity
+
+#### Key Understanding
+
+Metrics:
+Numeric data collected over time (like CPU utilization).  
+Used for monitoring system health and setting thresholds.
+
+Logs:
+Detailed records of system activity.  
+Used for debugging and understanding what actually happened.
+
+Events:
+Triggers generated when a condition occurs.  
+Used to start automated actions (like Lambda execution).
+
+Flow:
+
+Metrics → condition detected  
+Event → trigger generated  
+Logs → help in debugging  
+
+Monitoring is not just observing, it is detecting and taking action.
+
+---
+
+*Last updated: 2026-05-01*
