@@ -380,3 +380,21 @@ Monitoring is not just observing, it is detecting and taking action.
 ---
 
 *Last updated: 2026-05-01*
+
+### Day 16 — 2026-05-02 to 2026-05-04
+
+#### Topics Covered
+- No new topics
+
+#### What I Did
+- Took a break from study for a few days
+- Missed regular learning and posting
+
+#### Key Understanding
+Missing a few days is normal, but getting back quickly is important.
+
+Restarted again from today.
+
+---
+
+*Last updated: 2026-05-04*
